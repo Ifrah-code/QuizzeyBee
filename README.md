@@ -1,5 +1,5 @@
 # QuizzeyBee
-QuizzeyBee is a modern, interactive quiz application built with React.js. It allows users to take, create, and manage quizzes seamlessly. With an emphasis on simplicity and customization, QuizzeyBee makes learning and testing fun and accessible directly in the browser.
+QuizzeyBee is a modern, interactive quiz application built with Java . It allows users to take, create, and manage quizzes seamlessly. With an emphasis on simplicity and customization, QuizzeyBee makes learning and testing fun and accessible directly in the browser.
 
 Features:
 1] User-friendly interface for taking quizzes.
